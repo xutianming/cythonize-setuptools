@@ -1,7 +1,7 @@
 # cythonize-setuptools
-Cythonize python code and build wheel distribution package to hide your python code.
+Cythonize python codes and build wheel distribution package to hide your python codes.
 
-Cythonized wheel package will only distribute shared library (.so) which provides proper protection for your code.
+Cythonized wheel package will only distribute shared libraries (.so) which provide proper protection for your codes.
 
 
 
